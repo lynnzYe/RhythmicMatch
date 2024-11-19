@@ -1,4 +1,4 @@
-# RhythmicMatch
+# RhythmicMatcher
 Match touch input signals to a musical score
 
 
